@@ -1,0 +1,14 @@
+Preciso comparar duas listas
+
+1. Como criar uma lista em Java?
+2. Como comparar listas?
+3. Eu passo os valores?
+
+Exemplo 1
+Entrada:
+5 6
+PETR4 VALE3 ITUB4 BBDC4 ABEV3
+BBAS3 PETR4 ITUB4 ABEV3 WEGE3 BBDC4
+Saída:
+3
+PETR4 ITUB4 ABEV3
